@@ -213,7 +213,6 @@ Currently runs on local Apache Tomcat server
 ## Author
 
 	Shivani Gawade
-	Aspiring Full Stack Developer
 	Java | JDBC | Servlets | JavaScript | Oracle | Web Development
 
 
