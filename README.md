@@ -1,5 +1,7 @@
 # To-Do List Web Application
 
+## A full-stack Java web application implementing CRUD operations using JSP, Servlets, JDBC, and Oracle Database.
+
 ## Project Description
 
 The **To-Do List Web Application** is a dynamic full-stack Java web project that allows users to manage daily tasks efficiently using **CRUD (Create, Read, Update, Delete)** operations.
@@ -180,15 +182,33 @@ http://localhost:8080/ToDoListApp
 
 ## Screenshots
 
-```
-screenshots/
-   login.png
-   dashboard.png
-   add-task.png
-```
+### Registration Page
+![Registration Page](screenshots/registration.png)
+
+### Dashboard
+![Dashboard](screenshots/before_dashboard.png)
+![Dashboard](screenshots/after_dashboard.png)
+
+### Add Task Page
+![Add Task](screenshots/addtask.png)
+
+### Update Page
+![Update Page](screenshots/update_task.png)
+
+### Login page
+![Login](screenshots/login.png)
+
+
 ## Live Demo
 
+Currently runs on local Apache Tomcat server
 
+## Learning Outcomes
+
+- Implemented MVC architecture using JSP and Servlets  
+- Performed CRUD operations using JDBC  
+- Integrated Oracle Database with Java Web Application  
+- Implemented session management for authentication  
 
 ## Author
 
